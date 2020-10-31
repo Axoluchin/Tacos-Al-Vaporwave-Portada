@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1604106764 source:c:\users\juandedios\desktop\huchin damian\c plus\tacosalvaporwave\tacosalvaporwave.c
+	<stdio.h>
+	<winbgim.h>
+
+1266115814 c:\program files\codeblocks-ep-r- graph\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
